@@ -54,8 +54,6 @@ namespace TaskProgramming
                 }
             }
             
-            
-
             Console.WriteLine("Main method");
             Console.ReadKey();
         }

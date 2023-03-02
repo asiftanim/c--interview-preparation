@@ -22,7 +22,7 @@ namespace TaskProgramming
                 int i = 0;
                 while (true)
                 {
-                    //know as soft exit from a Task
+                    //know as soft fail from a Task
                     *//*if (Token.IsCancellationRequested)
                     {
                         break;
